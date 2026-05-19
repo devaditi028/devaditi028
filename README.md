@@ -11,8 +11,6 @@ To become a confident frontend developer and build real-world web applications �
 
 “I may not know everything, but I’m learning everything I need.” 🌷
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://github.com/xadi7i) 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=devaditi028&theme=radical&no-frame=false&no-bg=true&margin-w=4)
